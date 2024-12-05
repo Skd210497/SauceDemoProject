@@ -1,0 +1,1 @@
+{"uuid":"bae41bdd-6e55-4bd9-a11e-c171a09822b3","name":"base.Base_class.lunchApp","children":["e1f1b6c2-3a5e-41a4-8fc3-3a8dfd239924"],"description":"","befores":[{"name":"lunchApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733230502714,"stop":1733230509644}],"afters":[],"start":1733230502714,"stop":1733230509644}
